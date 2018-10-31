@@ -1732,21 +1732,29 @@ head.appendChild(script);
 <div class='inner-container'>
 	<ul class='nav-bar-link'>
 		<li>
-          <a href='/'><span>Home</span></a>
+          <a href='www.thinkasindian.in'><span>Home</span></a>
 	    </li>
 
 		<li>
-		  <a href='#home'><span>About</span></a>
+		  <a href=''><span>About</span></a>
 		</li>
 
 		<li>
-		  <a href='#home'><span>Photos</span></a>
+		  <a href='#home'><span>Ideas</span></a>
 	    </li>
 
 		<li>
-		  <a href='#home'><span>Another Page</span></a>
+		  <a href='#home'><span>Concepts</span></a>
 		</li>
-
+		<li>
+		  <a href='#home'><span>Inventions</span></a>
+		</li>
+		<li>
+		  <a href='#home'><span>Humors</span></a>
+		</li>
+		<li>
+		  <a href='#home'><span>Privacy</span></a>
+		</li>
 	</ul>
 
   <div class='navigation-toggle'>
