@@ -1732,7 +1732,7 @@ head.appendChild(script);
 <div class='inner-container'>
 	<ul class='nav-bar-link'>
 		<li>
-          <a href='www.thinkasindian.in'><span>Home</span></a>
+          <a href='https://www.thinkasindian.in'><span>Home</span></a>
 	    </li>
 
 		<li>
@@ -1753,7 +1753,10 @@ head.appendChild(script);
 		  <a href='#home'><span>Humors</span></a>
 		</li>
 		<li>
-		  <a href='#home'><span>Privacy</span></a>
+		  <a href='https://www.thinkasindian.in/p/privacy.html'><span>Privacy</span></a>
+		</li>
+		<li>
+		  <a href='https://www.thinkasindian.in/p/terms.html'><span>Terms of Service</span></a>
 		</li>
 	</ul>
 
